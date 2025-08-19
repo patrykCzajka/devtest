@@ -1,0 +1,43 @@
+/[Bb]uild/
+
+log-*
+
+# Word and Excel temporary
+*.tmp
+~$*.doc*
+~$*.xls*
+~$*.ppt*
+*.xlk
+
+# Windows image file caches
+Thumbs.db
+Thumbs.db.meta
+ehthumbs.db
+# Folder config file
+Desktop.ini
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+# Windows shortcuts
+*.lnk
+
+# Blender specific
+*.blend1
+*.blend1.meta
+*.blend2
+*.blend2.meta
+*.blend3
+*.blend3.meta
+
+*.7z
+
+build-configuration.txt
+git-report.txt
+ExternalModules/_HeavyArtwork/Artwork/ProBuilder grounds/GridBox_Default.png
+
+# JEBS scripts caches
+__pycache__

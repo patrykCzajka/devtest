@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf1501b9d70131b45b1bc023ee5ff5d3, type: 3}
+  m_Name: UI Model References
+  m_EditorClassIdentifier: 
+  stealthUIModel: {fileID: 11400000, guid: 518586db0670cd5439be74a613f71721, type: 2}
+  lockDownUIModel: {fileID: 11400000, guid: 06117fa3e4ed6d64ca73b531174faf18, type: 2}
+  playerProgressUIModel: {fileID: 11400000, guid: e29a873702d3cc9409651d05fe3efb9a, type: 2}
+  interactionTipUIModel: {fileID: 11400000, guid: 474a24959dc504b4799bf2afb3fbf31f, type: 2}
+  gameOverUIModel: {fileID: 11400000, guid: d1aaf183d15a5954ca54ccc2a649f749, type: 2}
+  gameFinishedUIModel: {fileID: 11400000, guid: 72da8805926fc6247860be9c7d64f641, type: 2}
